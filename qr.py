@@ -1,3 +1,4 @@
+#this is the library for generating qr code
 import qrcode
 
 link = input("Enter the link: ").strip()
